@@ -20,6 +20,3 @@ And finally:
 pip install requirements.txt
 
 Then, running the app/app.py file in your editor of choice will boot up a local Flask server, which you can then do as you please with.
-
-Official website is located here:
-kassandra-dashboard.herokuapp.com
