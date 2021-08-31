@@ -1,5 +1,3 @@
-# Kassandra-Dashboard
-
 # What is this
 
 The Kassandra-Dashboard is a dashboard my team and I created with the intent to visualize covid data from the CDC, while also integrating an individualized risk calculator which has it's guidelines derived from several reputable sources. This project was initially our product at the end of a hackathon, which can be seen in my data_challenge repo. We built upon it substantially and got the results published, this is the result.
