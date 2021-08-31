@@ -1,6 +1,10 @@
 # Kassandra-Dashboard
 
-If interested in running a local version, clone this repo and run this command from the base folder:
+If interested in running a local version, clone this repo
+Then, make a separate virtualenv like so:
+
+
+and run this command from the base folder:
 
 pip install requirements.txt
 
